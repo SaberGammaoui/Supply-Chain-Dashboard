@@ -1,4 +1,4 @@
-🎯 Project Overview
+🎯 Project Overview  
 A comprehensive Supply Chain Performance Dashboard built in Power BI, focusing on advanced DAX calculations and stunning visual design. This project demonstrates expertise in data modeling, complex measure creation, and professional dashboard aesthetics.
 
 Link : [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMGQwOTgyYmUtMDQ1MS00OTU2LThhYjUtN2UxNWFjNTE3ZTRjIiwidCI6IjZlMzQ0NmViLTVhMTEtNGVjZC1hOTUxLTAzNzA4MjZlNjhhOSIsImMiOjF9)
