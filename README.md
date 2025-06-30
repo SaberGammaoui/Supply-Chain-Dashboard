@@ -5,20 +5,20 @@ Link : [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMGQwOTgyYmUtM
 
 ![Dashboard Preview](https://github.com/user-attachments/assets/1db4c351-f474-4598-853c-89dbd7ed4a37)
 
-🚀 Key Focus Areas
-📊 DAX Development
+🚀 Key Focus Areas  
+📊 DAX Development  
 Complex Measures: Created sophisticated DAX formulas for profit margin calculations, revenue analysis, and performance metrics
 Statistical Functions: Developed measures for defect rate analysis and performance benchmarking
 Conditional Logic: Built smart calculations that adapt based on user selections and filters
 
-🎨 Visual Design Excellence
+🎨 Visual Design Excellence  
 Custom Color Palette: Designed a professional blue-orange color scheme that ensures perfect visual harmony
 Background Design: Crafted a stunning gradient background (#1D2961 to navy) that enhances readability
 Color Coordination: Meticulously matched all chart elements, creating a cohesive and polished appearance
 Brand Integration: Developed custom logo and branding elements that complement the overall design
 
 
-📈 Dashboard Features
+📈 Dashboard Features  
 Key Performance Indicators
 
 Total Revenue: $578K with detailed breakdowns
@@ -45,13 +45,13 @@ Color Theory: Professional palette design
 
 
 
-🤝 Contributing
+🤝 Contributing  
 Interested in improving this dashboard? Feel free to:
 
 Submit issues for bugs or feature requests
 Fork the repository and create pull requests
 Share feedback on design and functionality
 
-📞 Contact
-Saber GAMMAOUI - saber.gammaoui@nexusdaata.com
+📞 Contact  
+Saber GAMMAOUI - saber.gammaoui@nexusdaata.com  
 Project Link: https://github.com/SaberGammaoui/supply-chain-dashboard
