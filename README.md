@@ -1,7 +1,8 @@
 🎯 Project Overview  
+  
 A comprehensive Supply Chain Performance Dashboard built in Power BI, focusing on advanced DAX calculations and stunning visual design. This project demonstrates expertise in data modeling, complex measure creation, and professional dashboard aesthetics.
 
-Link : [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMGQwOTgyYmUtMDQ1MS00OTU2LThhYjUtN2UxNWFjNTE3ZTRjIiwidCI6IjZlMzQ0NmViLTVhMTEtNGVjZC1hOTUxLTAzNzA4MjZlNjhhOSIsImMiOjF9)
+Link : [Supply Chain Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMGQwOTgyYmUtMDQ1MS00OTU2LThhYjUtN2UxNWFjNTE3ZTRjIiwidCI6IjZlMzQ0NmViLTVhMTEtNGVjZC1hOTUxLTAzNzA4MjZlNjhhOSIsImMiOjF9)
 
 ![Dashboard Preview](https://github.com/user-attachments/assets/1db4c351-f474-4598-853c-89dbd7ed4a37)
 
@@ -27,7 +28,7 @@ Total Costs: $58K with margin analysis
 Average Profit Margin: 86% performance tracking
 Stock Levels: 4,777 units inventory monitoring
 
-🎨 Design Philosophy
+🎨 Design Philosophy  
 The dashboard prioritizes visual hierarchy and color psychology:
 
 Blue tones convey trust and professionalism
